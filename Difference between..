@@ -1,0 +1,9 @@
+SUBARRAY:
+It is continous array. It contains strictly increasing elements.
+Example:{1,2,3}
+subarray-{1,2},{2,3},{1,2,3}
+
+SUBSEQUENCE:
+It is sequence that can be derived from a set of array.
+Example:{1,2,3}
+subsequence-{1},{1,2},{1,3},{2},{2,1},{2,3},{3}
